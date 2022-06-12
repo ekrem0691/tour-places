@@ -1,0 +1,24 @@
+body {
+    background-color: #b5e2f7;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+.navbar-style {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 10vh;
+    background-color: #171b1f;
+    font-size: 1.5rem;
+
+}
+.nav-link {
+    color: white;
+    border-radius: 16px;
+}
+
+.nav-link:hover {
+    background-color: #b5e2f7;
+    border-radius: 16px;
+}
+
